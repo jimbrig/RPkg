@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+### Bug Fixes
+
+- Move package.json
+
 ### Documentation
 
 - Add pkgdown
@@ -33,6 +37,7 @@
 - Autopublish 2023-10-28T22:23:42Z
 - Autopublish 2023-10-28T22:25:24Z
 - Autopublish 2023-10-28T22:27:42Z
+- Autopublish 2023-10-28T22:39:29Z
 
 ### Init
 
