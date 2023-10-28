@@ -1,0 +1,11 @@
+default:
+  key: "value"
+
+dev:
+  key: "value"
+
+test:
+  key: "value"
+
+prod:
+  key: "value"
