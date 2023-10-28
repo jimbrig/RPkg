@@ -3,6 +3,7 @@
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![Project Status: WIP](https://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![codecov](https://codecov.io/gh/jimbrig/RPkg/graph/badge.svg?token=5F6dR7YL0I)](https://codecov.io/gh/jimbrig/RPkg)
 <!-- badges: end -->
 
 The goal of RPkg is to ...
