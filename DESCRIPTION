@@ -6,22 +6,19 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: Generic Helpers for use by R developers.
 License: MIT + file LICENSE
+URL: https://github.com/jimbrig/RPkg
+BugReports: https://github.com/jimbrig/RPkg/issues
 Depends: 
     R (>= 4.0)
 Imports: 
-    dplyr,
+    fs,
     glue,
-    lubridate,
-    purrr,
-    rlang,
     stringr,
-    tibble
+    utils
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-Suggests: 
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3
-URL: https://github.com/jimbrig/RPkg
-BugReports: https://github.com/jimbrig/RPkg/issues

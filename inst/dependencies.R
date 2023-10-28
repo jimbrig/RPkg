@@ -1,6 +1,6 @@
 # No Remotes ----
 # Attachments ----
-to_install <- c("glue")
+to_install <- c("fs", "glue", "stringr")
   for (i in to_install) {
     message(paste("looking for ", i))
     if (!requireNamespace(i, quietly = TRUE)) {
