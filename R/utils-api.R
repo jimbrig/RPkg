@@ -52,3 +52,31 @@ get_api_version <- function(...) {
   ) |>
   setdiff(c(NULL, NA))
 }
+
+#' API Session Info
+#'
+#' @description Utility function to retrieve the session info of the API.
+#'
+#' @param req Plumber request object
+#' @param res Plumber response object
+#'
+#' @return plumber response
+#' @export
+#'
+#' @importFrom jsonlite fromJSON toJSON
+#' @importFrom sessioninfo session_info
+#' @importFrom tibble as_tibble
+api_sessioninfo <- function(req, res) {
+
+  hold <- jsonlite::fromJSON(
+    jsonlite::toJSON(sessioninfo::session_info(),
+                     auto_unbox = TRUE,
+                     null = "null",
+                     force = TRUE)
+  )
+
+  hold[["packages"]] <- tibble::as_tibble(hold$packages)
+
+  hold
+
+}

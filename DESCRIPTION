@@ -13,7 +13,10 @@ Depends:
 Imports: 
     fs,
     glue,
+    jsonlite,
+    sessioninfo,
     stringr,
+    tibble,
     utils
 Suggests: 
     testthat (>= 3.0.0)
