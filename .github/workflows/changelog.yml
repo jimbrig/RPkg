@@ -1,4 +1,4 @@
-name: Generate CHANGELOG.md
+name: changelog
 on:
   workflow_dispatch:
   push:
