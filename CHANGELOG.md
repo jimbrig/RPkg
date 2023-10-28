@@ -15,6 +15,7 @@
 - Init
 - Add GHA
 - More GHA
+- Add sessioninfo endpoint
 
 ### Miscellaneous Tasks
 
@@ -22,6 +23,7 @@
 - Autopublish 2023-10-28T21:57:58Z
 - Autopublish 2023-10-28T21:58:32Z
 - Autopublish 2023-10-28T21:59:58Z
+- Autopublish 2023-10-28T22:14:33Z
 
 ### Init
 
