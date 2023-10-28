@@ -17,9 +17,11 @@ Imports:
     jsonlite,
     plumber,
     pool,
+    safer,
     sessioninfo,
     stringr,
     tibble,
+    urltools,
     utils
 Suggests: 
     testthat (>= 3.0.0)
