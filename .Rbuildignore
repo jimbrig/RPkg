@@ -5,3 +5,6 @@
 ^codecov\.yml$
 ^\.github$
 ^dev$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

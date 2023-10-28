@@ -82,6 +82,13 @@ usethis::use_r("shiny-download_bttn")
 usethis::use_test("shiny-download_bttn")
 usethis::use_data_raw()
 covr::package_coverage()
+usethis::use_coverage()
+usethis::use_build_ignore("dev")
+usethis::use_pkgdown()
+usethis::use_github_action("test-coverage")
+usethis::use_github_action("pkgdown")
+usethis::use_github_action("pr-commands")
+
 
 # library(covr)
 # covr::codecov()
