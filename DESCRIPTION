@@ -11,9 +11,12 @@ BugReports: https://github.com/jimbrig/RPkg/issues
 Depends: 
     R (>= 4.0)
 Imports: 
+    DBI,
     fs,
     glue,
     jsonlite,
+    plumber,
+    pool,
     sessioninfo,
     stringr,
     tibble,
