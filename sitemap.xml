@@ -22,6 +22,18 @@
     <loc>/reference/RPkg-package.html</loc>
   </url>
   <url>
+    <loc>/reference/api_ping.html</loc>
+  </url>
+  <url>
+    <loc>/reference/api_version.html</loc>
+  </url>
+  <url>
+    <loc>/reference/download_bttn.html</loc>
+  </url>
+  <url>
+    <loc>/reference/get_api_version.html</loc>
+  </url>
+  <url>
     <loc>/reference/index.html</loc>
   </url>
 </urlset>
