@@ -18,6 +18,7 @@
 - Add sessioninfo endpoint
 - Api enhancements
 - Api enhancements
+- Add more utils
 
 ### Miscellaneous Tasks
 
@@ -27,6 +28,7 @@
 - Autopublish 2023-10-28T21:59:58Z
 - Autopublish 2023-10-28T22:14:33Z
 - Autopublish 2023-10-28T22:16:55Z
+- Autopublish 2023-10-28T22:23:42Z
 
 ### Init
 
