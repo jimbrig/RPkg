@@ -25,6 +25,7 @@
 - Add more utils
 - Add time/date utils
 - Updates
+- Scaffold infra terraform folder
 
 ### Miscellaneous Tasks
 
@@ -38,6 +39,7 @@
 - Autopublish 2023-10-28T22:25:24Z
 - Autopublish 2023-10-28T22:27:42Z
 - Autopublish 2023-10-28T22:39:29Z
+- Autopublish 2023-10-28T22:40:26Z
 
 ### Init
 
